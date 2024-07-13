@@ -57,12 +57,5 @@ The Predictive Analysis of Big Mart Sales project aims to provide insights into 
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-[Include your chosen license here]
-
-## Contact
-
-[Your Name] - [Your Email]
 
 Project Link: [https://github.com/yourusername/bigmart-sales-analysis](https://github.com/yourusername/bigmart-sales-analysis)
