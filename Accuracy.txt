@@ -1,0 +1,6 @@
+Algorithm: Decision Tree Regression
+
+Mean Absolute Error: 0.31
+Mean Squared Error: 0.53
+ R^2 Score: 0.9596
+Accuracy score: 0.9563659872800793

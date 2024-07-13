@@ -1,0 +1,8 @@
+Item_Type,Item_Weight,Item_MRP,Item_Visibility,Item_Fat_Content,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type, Item_Outlet_Sales
+,,,,,,,,,
+Dairy,9.3,249.8092,0.016047301,Low Fat,1999,Medium,Tier 1,Supermarket Type1,3735.138
+Soft Drinks,5.92,48.2692,0.019278216,Regular,2009,Medium,Tier 3,Supermarket Type2,443.4228
+Starchy Foods,13.65,114.7834,0.013035609,Regular,2004,Small,Tier 2,Supermarket Type1,3455.502
+Fruits and Vegetables,11.15,66.0142,0.073783159,Low Fat,2007,Medium,Tier 2,Supermarket Type1,988.713
+Snack Foods,11.35,100.0016,0.045165796,Regular,2009,Medium,Tier 3,Supermarket Type2,1012.016
+Canned,7.27,90.2488,0.020865797,Regular,2009,Medium,Tier 3,Supermarket Type2,814.9392
